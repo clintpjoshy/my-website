@@ -1,0 +1,21 @@
+{
+  "name": "clintjoshy",
+  "version": "1.0.0",
+  "description": "My Protfolio",
+  "main": "index.js",
+  "scripts": {
+    "start": "node_modules/httpster/bin/httpster -p 3000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Clint Joshy",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.6.6",
+    "angular-route": "^1.6.6",
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {
+    "httpster": "^1.0.3"
+  }
+}
