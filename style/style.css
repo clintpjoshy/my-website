@@ -14,10 +14,12 @@ html, body {
 
 .header {
   margin-top: 75px;
+  border-bottom: groove 1px;
 }
 
 .navigation-bar {
   list-style-type: none;
+  margin-bottom: 0px;
 }
 
 .navigation-bar > li {
@@ -25,5 +27,6 @@ html, body {
   padding: 0 25px;
   text-align: center;
   line-height: 1;
-  border-right: solid 1px;
+  border-right: groove 1px;
+  cursor: pointer;
 }
