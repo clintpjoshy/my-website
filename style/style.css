@@ -7,6 +7,7 @@ html, body {
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#434343', endColorstr='#000000',GradientType=0 ); /* IE6-9 */
   color: #ffffff;
   font-size: 16px;
+//  font-size: 1vh;
   line-height: 1.5;
   font-weight: 600;
   font-family: "Georgia", serif;
